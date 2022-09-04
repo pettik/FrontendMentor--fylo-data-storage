@@ -219,6 +219,7 @@ body {
 
 .attribution a:hover {
   color: var(--pale-blue);
+text-decoration: underline;
 }
 
 @media only screen and (max-width: 768px) {
