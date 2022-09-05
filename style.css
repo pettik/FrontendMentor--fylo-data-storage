@@ -364,3 +364,13 @@ text-decoration: underline;
     display: none;
   }
 }
+
+
+@media (max-width: 320px) {
+.left--boxes ul {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+}
